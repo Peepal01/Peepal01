@@ -1,4 +1,28 @@
-<h1 align="center">Hey 👋What's Up? It's me Peepal gautam</h1> ### <p align="left">Skills that I know...</p> ### <div align="center">   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />   <img width="12" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  /> </div> ### <p align="left">Get in contact with me through-</p> ### <div align="center">   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /> </div> ### <div align="center">   <img src="https://streak-sta
+<div align="center">
+  <img height="200" src="https://media.tenor.com/V8Ytqd9FDOIAAAAi/attention-black-cat.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">→It's Me Peepal Gautam.</h1>
+
+###
+
+   <p align="left">I am currently studying  computer engineering  in kantipur engineering college located in lalitpur,dhapakhel.I’ve always been fascinated by the world of computers — from understanding how they    work to exploring how they can shape the future. I love diving into programming, experimenting with new technologies, and finding creative ways to solve problems through code. For me, technology isn’t just a     tool, it’s a space where ideas turn into reality, and I’m excited to keep learning and contributing to this ever-evolving field."</p>
+
+###
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/j9r9vDJz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/peepal.gautam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/peepal.gautam/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Peepalgautam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautampeepal01@gmail.com) 
 
@@ -11,5 +35,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Peepal01&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peepal01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
